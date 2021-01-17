@@ -1,0 +1,2 @@
+# hypixel-skyblock
+HypiCoins server
